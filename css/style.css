@@ -68,7 +68,6 @@ td{
  text-align: center;
  border-top: 2px solid #000000;
  padding: 10px;
- text-align: center;
 }
 
 
@@ -86,7 +85,8 @@ td{
 .rowhead{
   border-top: 2px solid #000000;
   border-right: 2px solid #000000; 
-  margin: auto;
+  text-align: center;
+  padding: 10px;
 
 }
 
