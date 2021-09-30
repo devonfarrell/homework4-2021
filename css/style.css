@@ -79,7 +79,8 @@ td{
   background-color: #7e0825;
   margin: auto;
   text-align: center;
-  vertical-align: center;
+  justify-content: center;
+  align-items: center;
 }
 
 .rowhead{
