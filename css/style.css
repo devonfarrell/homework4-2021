@@ -80,11 +80,13 @@ td{
   background-color: #7e0825;
   margin: auto;
   text-align: center;
+  vertical-align: center;
 }
 
 .rowhead{
   border-top: 2px solid #000000;
   border-right: 2px solid #000000; 
+  margin: auto;
 
 }
 
@@ -97,6 +99,7 @@ table{
     border-radius: 50px;
     margin-left: auto;
     margin-right: auto;
+    text-align: center;
 }
 
 /* I gave you the selector, but not the property-value pair. 
